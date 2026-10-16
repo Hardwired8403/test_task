@@ -1,0 +1,14 @@
+# Build outputs
+*.o
+/dump_tool
+/test_dump
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
